@@ -1,0 +1,94 @@
+#Wawla Language File
+tooltip.wawla.true=§aTrue
+tooltip.wawla.false=§4False
+tooltip.wawla.yes=§a✔
+tooltip.wawla.no=§4✖
+tooltip.wawla.item=Предмет
+tooltip.wawla.block=Блок
+tooltip.wawla.shovel=Лопата
+tooltip.wawla.pickaxe=Кайло
+tooltip.wawla.axe=Топор
+tooltip.wawla.chisel=Стамеска
+tooltip.wawla.scoop=Ковш
+tooltip.wawla.crowbar=Лом
+tooltip.wawla.sword=Меч
+tooltip.wawla.mainhand=Основная рука
+tooltip.wawla.offhand=Отключить руку
+tooltip.wawla.feet=Стопы
+tooltip.wawla.legs=Ноги
+tooltip.wawla.chest=Сундук
+tooltip.wawla.head=Голова
+tooltip.wawla.star=★
+tooltip.wawla.name=Имя
+
+#Generic Tiles
+tooltip.wawla.generic.progression=Прогресс
+tooltip.wawla.generic.enchpower=Сила чарования
+tooltip.wawla.generic.blastresist=Сопротивление огню
+tooltip.wawla.generic.hardness=Твердость
+tooltip.wawla.generic.harvestable=Собираемость
+tooltip.wawla.generic.showtier=Уровень
+tooltip.wawla.generic.tooltype=Инструмент
+
+#Generic Entities
+tooltip.wawla.generic.armor=Броня
+tooltip.wawla.generic.sitting=Сидящий
+tooltip.wawla.generic.tamed=Приручаемый
+tooltip.wawla.generic.breedingtime=Время разведения
+tooltip.wawla.generic.growingage=Уменьшение отката
+tooltip.wawla.generic.breedingitem=Breedable
+
+#Vanilla Tiles
+tooltip.wawla.vanilla.input=Ввод
+tooltip.wawla.vanilla.fuel=Топливо
+tooltip.wawla.vanilla.output=Вывод
+tooltip.wawla.vanilla.burntime=Время жизни
+
+#Vanilla Entities
+tooltip.wawla.vanilla.jump=Сила прыжка
+tooltip.wawla.vanilla.speed=Скорость
+tooltip.wawla.vanilla.career=Профессия
+tooltip.wawla.vanilla.fuse=Плавка
+tooltip.wawla.vanilla.experience=Опыт
+
+#Villager Types
+villager.wawla.zombie=Зомби
+villager.wawla.witch=Ведьма
+
+#Vanilla Fixes
+entity.ItemFrame.name=Рамка предмета
+
+#Enchantment Tooltip
+tooltip.wawla.shiftEnch=Нажмите §d%s§7 для просмотра описания первого зачарования.
+tooltip.wawla.missingench=Описание не найдено. Пожалуйста попросите автора мода §9%s§7 добавить его. The localization key is %s
+tooltip.wawla.addedby=Добавлено §9%s§7
+tooltip.wawla.enchPower=Сила чарования
+
+#Vanilla Enchantment Descriptions
+enchantment.minecraft.protection.desc=Уменьшает получаемый урон от большинства источников. 
+enchantment.minecraft.fire_protection.desc=Уменьшает последствия от поджога. Также уменьшает время ожога, когда поджигали.
+enchantment.minecraft.feather_falling.desc=Уменьшает получаемый урон от падения.
+enchantment.minecraft.blast_protection.desc=Снижает повреждения от взрывов и отбрасывания.
+enchantment.minecraft.projectile_protection.desc=Понижает повреждения от снарядов, таких как стрелы и огненные шары.
+enchantment.minecraft.respiration.desc=Увеличивает количество времени игрока под водой. Кроме того, улучшает подводное зрение.
+enchantment.minecraft.aqua_affinity.desc=Увеличение скорости добычи под водой.
+enchantment.minecraft.thorns.desc=Повреждает врагов, когда они нападают на вас.
+enchantment.minecraft.sharpness.desc=Увеличение урона предмета.
+enchantment.minecraft.smite.desc=Увеличивает урон против нежити, таких как зомби и скелеты.
+enchantment.minecraft.bane_of_arthropods.desc=Увеличение урона членистоногих, таких как пауки и серебрянки.
+enchantment.minecraft.knockback.desc=Увеличивает силу отбрасывания оружия.
+enchantment.minecraft.fire_aspect.desc=Наносит дополнительный урон от огня при атаке моба.
+enchantment.minecraft.looting.desc=Мобы оставляют больше добычи после смерти.
+enchantment.minecraft.efficiency.desc=Увеличение скорость добычи инструмента.
+enchantment.minecraft.silk_touch.desc=Шёлковое касание.
+enchantment.minecraft.unbreaking.desc=Уменьшение скорости падения прочности инструмента.
+enchantment.minecraft.fortune.desc=Удача. Из некоторых блоков, таких как уголь и алмазная руда, могут выпасть дополнительные элементы.
+enchantment.minecraft.power.desc=Увеличивает урон от стрел, выпущенных из лука.
+enchantment.minecraft.punch.desc=Увеличивает силу отбрасывания стрел выпускаемых из лука.
+enchantment.minecraft.flame.desc=Стрелы, выпущенные из лука будут наносить дополнительный урон от огня. 
+enchantment.minecraft.infinity.desc=При стрельбе из лука делает обычные стрелы огненными. В инвентаре должны быть хотя бы одна обычная стрела.
+enchantment.minecraft.luck_of_the_sea.desc=Увеличение шанса получения хорошей добычи при рыбалке.
+enchantment.minecraft.lure.desc=Уменьшение общего времени на подсечку рыбы.
+enchantment.minecraft.depth_strider.desc=Увеличение скорости передвижения под водой.
+enchantment.minecraft.frost_walker.desc=Заморозка воды под игроком.
+enchantment.minecraft.mending.desc=Восстановление прочности брони и инструментов с опытом.
