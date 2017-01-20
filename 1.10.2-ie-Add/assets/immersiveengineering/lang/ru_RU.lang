@@ -343,7 +343,7 @@ item.immersiveengineering.mold.plate.name=Пресс-матрица: Пласт�
 item.immersiveengineering.mold.gear.name=Пресс-матрица: Шестерня
 item.immersiveengineering.mold.rod.name=Пресс-матрица: Прут
 item.immersiveengineering.mold.bulletCasing.name=Пресс-матрица: Гильза
-item.immersiveengineering.mold.wire.name=Metal Press Mold: Wire
+item.immersiveengineering.mold.wire.name=Пресс-матрица: Провод
 
 item.immersiveengineering.graphiteElectrode.name=Graphite Electrode
 item.immersiveengineering.shader.name=Shader
@@ -351,7 +351,7 @@ item.immersiveengineering.shaderBag.name=Shader Grabbag
 item.immersiveengineering.jerrycan.name=Канистра
 item.immersiveengineering.chemthrower.name=Chemical Thrower
 item.immersiveengineering.railgun.name=Railgun
-item.immersiveengineering.earmuffs.name=Ear Defenders
+item.immersiveengineering.earmuffs.name=Наушники
 item.immersiveengineering.coresample.name=Core Sample
 item.immersiveengineering.faradaySuit_head.name=Faraday Helmet
 item.immersiveengineering.faradaySuit_chest.name=Faraday Chestplate
