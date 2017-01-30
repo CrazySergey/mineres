@@ -1,0 +1,16 @@
+﻿# Keys
+key.moreoverlays.category=Дополнительное перекрытие
+key.moreoverlays.chunkbounds.desc=Показать/Убрать границы чанков
+key.moreoverlays.lightoverlay.desc=Показать/Убрать темные пятна
+key.moreoverlays.invsearch.desc=Вкл/Выкл поиск по предметам инвентаря
+
+# Gui
+gui.moreoverlays.search.enabled=Предметный поиск включен
+gui.moreoverlays.search.disabled=Предметный поиск выключен
+gui.config.moreoverlays.tile=Установки ДопПерекрытия
+
+# Config-GUI
+config.moreoverlays.category.lightoverlay=Легкое перекрытие
+config.moreoverlays.category.chunkbounds=Границы чанков
+config.moreoverlays.category.itemsearch=Предметный поиск
+config.moreoverlays.category.rendersettings=Установки рендера
