@@ -1,0 +1,118 @@
+﻿//Blocks
+tile.copper_ore.name=Медная руда
+tile.copper_block.name=Блок меди
+tile.tin_ore.name=Оловянная руда
+tile.tin_block.name=Блок олова
+tile.mythril_ore.name=Мифриловая руда
+tile.mythril_block.name=Блок мифрила
+tile.adamantium_ore.name=Адамантовая руда
+tile.adamantium_block.name=Блок адаманта
+tile.onyx_ore.name=Ониксовая руда
+tile.onyx_block.name=Блок оникса
+
+//Items
+item.copper_ingot.name=Слиток меди
+item.tin_ingot.name=Слиток олова
+item.mythril_ingot.name=Слиток мифрила
+item.adamantium_ingot.name=Слиток адаманта
+item.onyx_gem.name=Оникс
+item.copper_bucket.name=Медное ведро
+item.copper_bucket_water.name=Медное ведро воды
+item.mythril_rod.name=Мифриловый прут
+item.onyx_rod.name=Ониксовый прут
+
+//Tools
+item.copper_pickaxe.name=Медное кайло
+item.copper_axe.name=Медный топор
+item.copper_shovel.name=Медная лопата
+item.copper_sword.name=Медный меч
+item.copper_hoe.name=Медная мотыга
+item.tin_pickaxe.name=Оловянное кайло
+item.tin_axe.name=Оловянный топор
+item.tin_shovel.name=Оловянная лопата
+item.tin_sword.name=Оловянный меч
+item.tin_hoe.name=Оловянная мотыга
+item.mythril_pickaxe.name=Мифриловое кайло
+item.mythril_axe.name=Мифриловый топор
+item.mythril_shovel.name=Мифриловая лопата
+item.mythril_sword.name=Мифриловый меч
+item.mythril_hoe.name=Мифриловая мотыга
+item.adamantium_pickaxe.name=Адамантовое кайло
+item.adamantium_axe.name=Адамантовый топор
+item.adamantium_shovel.name=Адамантовая лопата
+item.adamantium_sword.name=Адамантовый меч
+item.adamantium_hoe.name=Адамантовая мотыга
+item.onyx_pickaxe.name=Ониксовое кайло
+item.onyx_axe.name=Ониксовый топор
+item.onyx_shovel.name=Ониксовая лопата
+item.onyx_sword.name=Ониксовый меч
+item.onyx_hoe.name=Ониксовая мотыга
+item.mythril_bow.name=Мифриловый лук
+item.onyx_bow.name=Ониксовый лук
+item.copper_shears.name=Медные ножницы
+item.tin_shears.name=Оловянные ножницы
+item.mythril_shears.name=Мифриловые ножницы
+item.adamantium_shears.name=Адамантовые ножницы
+item.onyx_shears.name=Ониксовые ножницы
+
+//Armor
+item.copper_helmet.name=Copper Helmet
+item.copper_chestplate.name=Copper Chestplate
+item.copper_leggings.name=Copper Leggings
+item.copper_boots.name=Copper Boots
+item.tin_helmet.name=Tin Helmet
+item.tin_chestplate.name=Tin Chestplate
+item.tin_leggings.name=Tin Leggings
+item.tin_boots.name=Tin Boots
+item.mythril_helmet.name=Mythril Helmet
+item.mythril_chestplate.name=Mythril Chestplate
+item.mythril_leggings.name=Mythril Leggings
+item.mythril_boots.name=Mythril Boots
+item.adamantium_helmet.name=Adamantium Helmet
+item.adamantium_chestplate.name=Adamantium Chestplate
+item.adamantium_leggings.name=Adamantium Leggings
+item.adamantium_boots.name=Adamantium Boots
+item.onyx_helmet.name=Onyx Helmet
+item.onyx_chestplate.name=Onyx Chestplate
+item.onyx_leggings.name=Onyx Leggings
+item.onyx_boots.name=Onyx Boots
+
+//Achievements
+achievement.copperAch=Welcome to SimpleOres!
+achievement.copperAch.desc=Begin your SimpleOres adventure by collecting some Copper
+achievement.tinAch=Not Silver
+achievement.tinAch.desc=Shouldn't be too hard finding some of this
+achievement.mythrilAch=Ooh, Pretty!
+achievement.mythrilAch.desc=Dig deep to find some Mythril Ore
+achievement.adamantiumAch=Green is Good
+achievement.adamantiumAch.desc=It's lightning fast!
+achievement.onyxAch=Ninja Ore
+achievement.onyxAch.desc=Good luck finding some
+
+achievement.copperPickAch=Upgrade II?
+achievement.copperPickAch.desc=I guess it's better than Stone...
+achievement.copperBucketAch=Caution: Don't Use On Lava
+achievement.copperBucketAch.desc=Save your Iron, make a bucket with Copper!
+achievement.tinChestplateAch=White Knight
+achievement.tinChestplateAch.desc=Seems impractical, but give it a try
+achievement.tinShearsAch=Who Would Ever Use These?
+achievement.tinShearsAch.desc=Because normal shears obviously last too long
+achievement.mythrilAxeAch=Now We're Talking
+achievement.mythrilAxeAch.desc=Craft a Mythril Axe for a significant improvement over Iron.
+achievement.mythrilBowAch=Mystical Bow
+achievement.mythrilBowAch.desc=Forge a new bow with magical properties
+achievement.adamantiumLegsAch=Suit Up
+achievement.adamantiumLegsAch.desc=Stand out from the crowd with a stylish pair of Adamantium Leggings!
+achievement.adamantiumShearsAch=Endless Sheep Shearing
+achievement.adamantiumShearsAch.desc=Finally, shears that don't break instantly!
+achievement.onyxSwordAch=Sheer, Absolute Ownage
+achievement.onyxSwordAch.desc=Craft an Onyx Sword. Your enemies will tremble in fear
+achievement.onyxBowAch=Firebug
+achievement.onyxBowAch.desc=Scorch your enemies with this bow straight from the Hells
+
+//Bow Tooltips
+tips.damageTooltip=+Damage
+tips.flameTooltip=+Flame
+tips.knockbackTooltip=+Knockback
+tips.zoomTooltip=+Zoom
+tips.efficiencyTooltip=+Efficiency

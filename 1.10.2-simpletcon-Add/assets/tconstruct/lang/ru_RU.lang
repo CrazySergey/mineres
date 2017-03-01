@@ -1,0 +1,32 @@
+﻿material.mythril.name=Мифрил
+material.adamantium.name=Адамант
+material.onyx.name=Оникс
+material.thyrium.name=Thyrium
+material.sinisite.name=Sinisite
+material.fyrite.name=Fyrite
+material.malachite.name=Malachite
+material.ashstone.name=Ashstone
+material.illumenite.name=Illumenite
+material.dragonstone.name=Dragonstone
+material.argonite.name=Argonite
+
+
+modifier.modifiable.name=Модифицируемый
+modifier.modifiable.desc=В§oMagicalВ§r\nThis allows more Modifiers.
+modifier.magical.name=Магический
+modifier.magical.desc=В§oYou feel the powerВ§r\nThis must be some kind of magic.
+modifier.durable.name=Прочный
+modifier.durable.desc=В§oStrong...В§r\nYour tool uses less durability.
+modifier.dwarvish.name=Dwarvish
+modifier.dwarvish.desc=В§oFrom the great forge!В§r\nDeal bonus damage to Nether mobs.
+modifier.dwarvish.extra=Vs Nether: +%s
+modifier.fieryt.name=Fiery
+modifier.fieryt.desc=В§oSo hot right now!В§r\nBonus fire damage, sets your enemies on fire.
+modifier.fieryt.extra=Fire Damage: +%s
+modifier.fieryt.extra2=Burn Duration: %ss
+modifier.blinding.name=Blinding
+modifier.blinding.desc=В§oSo bright!В§r\nBlinds your enemies.
+modifier.slowing.name=Slowing
+modifier.slowing.desc=В§oCan't move!В§r\nSlows your enemies.
+modifier.illuminating.name=Illuminating
+modifier.illuminating.desc=В§oI can see!В§r\nGrants night vision on attack.
